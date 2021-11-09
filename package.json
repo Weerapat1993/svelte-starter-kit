@@ -53,7 +53,8 @@
 	},
 	"dependencies": {
 		"bulma": "^0.9.2",
-		"bulma-extensions": "^6.2.7"
+		"bulma-extensions": "^6.2.7",
+		"svelte-routing": "^1.6.0"
 	},
 	"devDependencies": {
 		"@ptkdev/all-shields-cli": "^2.0.2",

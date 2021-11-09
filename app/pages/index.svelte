@@ -24,4 +24,5 @@
 		</div>
 	</section>
 	<div class="content has-text-centered">app/pages/home.svelte</div>
+	<a href="/about">Go to About</a>
 </div>

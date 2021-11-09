@@ -8,6 +8,7 @@
 	 * @license: MIT License
 	 *
 	 */
+	import { links } from "svelte-routing";
 	import Menu from "$lib/components/common/menu/menu.svelte";
 	import Footer from "$lib/components/common/footer/footer.svelte";
 
